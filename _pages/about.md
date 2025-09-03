@@ -6,7 +6,7 @@ permalink: /
 # Yuhan Nie  
 ![profile picture](profile.jpg)  
 
-Hi! I am **Yuhan Nie (聂雨涵)**, a first year PhD student from UMich Biophysics deppartment passionate about **biophysics** and **super-resolution imaging**.  
+Hi! I am **Yuhan Nie (聂雨涵)**, a first year PhD student from UMich Biophysics deppartment passionate about **biophysics** and **single molecule imaging**.  
 
 ---
 
@@ -27,13 +27,13 @@ Hi! I am **Yuhan Nie (聂雨涵)**, a first year PhD student from UMich Biophysi
 ---
 
 ## 📑 Publications
-**Nie Y**, Hu J, Zhang S, Meng X, Fu G. Molecular resolution imaging based on two-color single-molecular localization
+- **Nie Y**, Hu J, Zhang S, Meng X, Fu G. Molecular resolution imaging based on two-color single-molecular localization
 microscopy (SMLM). Opt Express. 2025.  
-**Yuhan Nie**, Guo Fu, Yuxin Leng. Nuclear Delivery of Nanoparticle-Based Drug Delivery Systems by Nuclear
+- **Yuhan Nie**, Guo Fu, Yuxin Leng. Nuclear Delivery of Nanoparticle-Based Drug Delivery Systems by Nuclear
 Localization Signals. Cells. 2023.
-**Yuhan Nie**, Yadong Xie, Zao Yi. Preparation of ZnO/Bi2O3 Composites as Heterogeneous Thin Film Materials with
+- **Yuhan Nie**, Yadong Xie, Zao Yi. Preparation of ZnO/Bi2O3 Composites as Heterogeneous Thin Film Materials with
 High Photoelectric Performance on FTO Base. Coatings. 2021.
-Yadong Xie#, **Yuhan Nie#**, Zao Yi. The influence of β-Ga2O3 film thickness on the optoelectronic properties of β-
+- Yadong Xie#, **Yuhan Nie#**, Zao Yi. The influence of β-Ga2O3 film thickness on the optoelectronic properties of β-
 Ga2O3@ZnO nanocomposite heterogeneous materials. Materials Today Communications. 2021.(# co-first author)
 
 
