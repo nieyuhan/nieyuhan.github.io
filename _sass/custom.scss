@@ -1,1 +1,68 @@
+/* -----------------------------
+   全局背景
+----------------------------- */
+body {
+  background-image: url('/images/background.jpg'); /* 背景图片路径 */
+  background-size: cover;           /* 背景覆盖整个页面 */
+  background-position: center;      /* 居中显示 */
+  background-repeat: no-repeat;     /* 不重复平铺 */
+  background-attachment: fixed;     /* 页面滚动时背景固定 */
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; /* 基础字体 */
+  color: #222;                      /* 文字颜色 */
+}
+
+/* -----------------------------
+   左侧栏
+----------------------------- */
+.sidebar {
+  background-color: rgba(255, 255, 255, 0.85); /* 半透明白色背景 */
+  padding: 20px;
+  border-radius: 10px;
+}
+
+/* 左侧头像圆形化 */
+.sidebar .avatar {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  object-fit: cover; /* 图片裁剪不变形 */
+  margin-bottom: 15px;
+}
+
+/* 左侧栏标题和文本样式 */
+.sidebar h1, .sidebar h2, .sidebar h3, .sidebar p {
+  margin: 5px 0;
+  line-height: 1.4;
+}
+
+/* -----------------------------
+   右侧主内容区
+----------------------------- */
+.main-content {
+  background-color: rgba(255, 255, 255, 0.85); /* 半透明背景 */
+  padding: 25px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+/* -----------------------------
+   超链接样式
+----------------------------- */
+a {
+  color: #1a73e8;  /* Google蓝 */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* -----------------------------
+   小屏幕适配
+----------------------------- */
+@media screen and (max-width: 768px) {
+  .sidebar, .main-content {
+    background-color: rgba(255, 255, 255, 0.95);
+  }
+}
 
