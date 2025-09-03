@@ -20,11 +20,10 @@ author:
   # Biographic information
   avatar           : "images/photo1.JPG"
   name             : "Yuhan Nie"
-  pronouns         : # example: "He/Him"  
+  pronouns         :  "He/Him"  
   bio              : "PhD student from Umich Biophysics"
   location         : "MI Ann Arbor"
   employer         : "UMich"
-  uri              : # URL
   email            : "yuhannie@umich.edu" 
 
   # Academic websites
