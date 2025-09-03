@@ -4,8 +4,7 @@ permalink: /
 ---
 
 # Yuhan Nie  
-<img src="images/photo1.JPG" alt="profile picture" width="200px">
-
+<img src="images/photo1.jpg" alt="profile picture" style="width:200px; border-radius:50%;">
 
 Hi! I am **Yuhan Nie (聂雨涵)**, a first year PhD student from UMich Biophysics deppartment passionate about **biophysics** and **single molecule imaging**.  
 
