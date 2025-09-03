@@ -18,7 +18,7 @@ url                      : https://academicpages.github.io # the base hostname &
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "images/photo1.JPG"
+  avatar: images/photo1.JPG
   name             : "Yuhan Nie"
   pronouns         :  "He/Him"  
   bio              : "PhD student from Umich Biophysics"
