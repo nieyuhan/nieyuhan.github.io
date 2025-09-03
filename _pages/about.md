@@ -45,9 +45,7 @@ You can download my full CV [here](files/CV_YuhanNie.pdf).
 ---
 
 ## 📬 Contact
-- ✉️ Email: your.email@example.com  
-- 🔗 [GitHub](https://github.com/yourusername)  
-- 🔗 [LinkedIn](https://linkedin.com/in/yourusername)  
-- 🔗 ORCID: 0000-0000-0000-0000  
+- ✉️ Email: yuhannie@umich.edu  
+
 
 ---
