@@ -41,7 +41,7 @@ Ga2O3@ZnO nanocomposite heterogeneous materials. Materials Today Communications.
 ---
 
 ## 📄 CV
-You can download my full CV [here](file/CV_YuhanNie.pdf).  
+You can download my full CV [here](file/CV-YuhanNie.pdf).  
 
 ---
 
